@@ -1,5 +1,7 @@
 #Testers
 1)Execute smoke tests on premise and clode deployments.
+2)Excute selinum automated test.
+3) add then to ci
 
 #devops
 1)build this code from jenkins.
