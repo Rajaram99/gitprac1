@@ -1,2 +1,8 @@
 #Testers
 1)Execute smoke tests on premise and clode deployments.
+
+#devops
+1)build this code from jenkins.
+2)deploy the code to tomcat server.
+3)use any configuration management tool for acheiving this.
+
