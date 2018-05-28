@@ -1,3 +1,4 @@
 1)build this code from jenkins.
 2)deploy the code to tomcat server.
 3)use any configuration management tool for acheiving this.
+4)create a dockerfile also forthis app
